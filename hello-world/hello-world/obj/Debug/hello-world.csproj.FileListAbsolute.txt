@@ -1,0 +1,5 @@
+C:\Users\bclifton\Documents\GitHub\BSC-local\hello-world\hello-world\bin\Debug\hello-world.exe
+C:\Users\bclifton\Documents\GitHub\BSC-local\hello-world\hello-world\bin\Debug\hello-world.pdb
+C:\Users\bclifton\Documents\GitHub\BSC-local\hello-world\hello-world\obj\Debug\hello-world.csprojResolveAssemblyReference.cache
+C:\Users\bclifton\Documents\GitHub\BSC-local\hello-world\hello-world\obj\Debug\hello-world.exe
+C:\Users\bclifton\Documents\GitHub\BSC-local\hello-world\hello-world\obj\Debug\hello-world.pdb
